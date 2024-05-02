@@ -3,6 +3,8 @@ function Block3() {
   return (
     <div className="table-container">
       <div className="table-left">
+      <div className="table-up">
+
       <div className="card css-1yzwpud">
         <div className="table css-1j0nwho">
           <div className="css-fhbsai"></div>
@@ -106,6 +108,8 @@ function Block3() {
               </tbody>
             </table>
           </div>
+          </div>
+
         </div>
       </div>
     </div>

@@ -2,6 +2,8 @@ import React from "react";
 function Block4() {
   return (
     <div className="table-container">
+            <div className="table-up">
+
       <div className="table-right">
       <div className="card css-1yzwpud">
         <div className="table css-1j0nwho">
@@ -109,6 +111,8 @@ function Block4() {
       </div>
     </div>
     </div>
+    </div>
+
   );
 }
 

@@ -435,12 +435,13 @@ input[type="submit"]:hover,
 /* block2 */
 
 
-.card {
+/* .card {
   
   border-radius: 4px;
   overflow: hidden;
   margin: 20px;
-}
+  background-color: red;
+} */
 
 th,
 td {
@@ -561,19 +562,19 @@ tbody {
 
 .table-left
  {
-  height: 200px;
-  width: 600px;
+  /* height: 10px;
+  width: 600px; */
   margin-left: 50%;
-  display: inline-block;
-  /* float: left; */
+
 }
+ 
+
 .table-right{
   
 
   margin-right: 50%;
-  height: 10px;
-  width: 600px;
-  display: inline-block;
+  /* height: 200px;
+  width: 600px; */
 
 } 
 
@@ -582,6 +583,17 @@ tbody {
   padding: 0 20px;
   
  
+
+}
+.table-up{
+  /* background-color: red; */
+  margin-top: -17%;
+  max-width: 10px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
 
 }
 
